@@ -1,0 +1,31 @@
+Scanberry Pi Usb Scan Report Analysis create (2022-04-27 20:53:33.677206):
+
+Malware Found: /media/pi/eicarcom2.zip: Win.Test.EICAR_HDB-1 FOUND
+
+Malware Found: /media/pi/Jumper_BOOT.IMA: Win.Trojan.EE-1 FOUND
+
+Malware Found: /media/pi/2a1f5a04025b7837d187ed8e9aaab7b5fff607327866e9bc9e5da83a84b56dda.bin: Win.Dropper.Genericr-7674504-0 FOUND
+
+Malware Found: /media/pi/131.exe: Win.Ransomware.HDDCryptor-2 FOUND
+
+Malware Found: /media/pi/eicarcom2/eicar_com.zip: Win.Test.EICAR_HDB-1 FOUND
+
+Malware Found: /media/pi/eicarcom2/eicar_com/eicar.com: Win.Test.EICAR_HDB-1 FOUND
+
+
+##################################
+_____________USB STATS______________
+Make: USB_2.0
+Serial: USB_2.0_PenDrive_0000000000000146-0:0
+Model: PenDrive
+Partitoned:partition
+FileSystem:ntfs
+####################################
+----------- SCAN SUMMARY -----------
+Infected files: 6
+Time: 3.243 sec (0 m 3 s)
+Start Date: 2022:04:27 20:53:34
+End Date:   2022:04:27 20:53:37
+Partitioned: no
+Partitioned: yes
+Partitioned: yes

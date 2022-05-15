@@ -1,0 +1,25 @@
+Scanberry Pi Usb Scan Report Analysis create (2022-05-12 13:18:32.476585):
+
+
+
+NO KNOWN MALWARE FOUND: on this device still treat as hostile
+
+
+##################################
+_____________USB STATS______________
+Make: USB_2.0
+Serial: USB_2.0_PenDrive_0000000000000146-0:0
+Model: PenDrive
+Partitoned:partition
+FileSystem:exfat
+####################################
+----------- SCAN SUMMARY -----------
+Infected files: 0
+Time: 123.738 sec (2 m 3 s)
+Start Date: 2022:05:12 13:18:33
+End Date:   2022:05:12 13:20:37
+Partitioned: yes
+Partitioned: yes
+Partitioned: no
+Partitioned: yes
+Partitioned: yes

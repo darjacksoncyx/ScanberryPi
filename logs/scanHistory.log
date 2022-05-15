@@ -1,0 +1,302 @@
+
+
+#############################################
+
+Scanberry Pi Usb Scan Report Analysis create (2022-05-12 13:11:17.938794):
+
+Malware Found and removed: /media/pi/infectedfiles/eicarcom2.zip: Eicar-Test-Signature FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Jumper.B.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Ransomware.Mamba.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Nitlove.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Jumper_BOOT.IMA: Win.Trojan.EE-1 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2a1f5a04025b7837d187ed8e9aaab7b5fff607327866e9bc9e5da83a84b56dda.bin: Win.Dropper.Genericr-7674504-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/131.exe: Win.Ransomware.HDDCryptor-2 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2018-11-02-t.exe-from-92.63.197.48.exe: Win.Ransomware.Gandcrab-9764464-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-01.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-02.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-03.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-04.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-05.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-06.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-07.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-08.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-09.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-10.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-11.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-12.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-13.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-14.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-15.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-16.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-17.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-18.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-19.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-20.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-21.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-22.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-23.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-24.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-25.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-26.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-27.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-28.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-29.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-30.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-31.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-32.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-33.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-34.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-35.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-36.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-37.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-38.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-39.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-40.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-41.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-42.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-43.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-44.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-45.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-46.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-47.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-48.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-49.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-50.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-51.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-52.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-53.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-54.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-55.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-56.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-57.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-58.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-59.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-60.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-61.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-62.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-63.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-64.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-65.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-66.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-67.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-68.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-69.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-70.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-71.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-72.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-73.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2021-10-01-Qakbot-malspam-example-74.eml: Doc.Downloader.Docusign112100-9908075-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2022-01-04-calient.jpg-script-converted-from-downloaded-text.txt: Heuristics.Structured.CreditCardNumber FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2022-03-01-attached-Excel-spreadsheet.bin: Xls.Downloader.Emotet03220-9940726-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2022-03-01-Cobalt-Strike-EXE.bin: Win.Trojan.Mansabo-9940699-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/2022-03-01-Emotet-epoch4-DLL.bin: Win.Trojan.Mansabo-9940641-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/autquia-4403601.zip: Doc.Downloader.Qbot11202120-9906200-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Form - Mar 03, 2022.xlsm: Xls.Downloader.Emotet03220-9940726-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/index-2009541103.xls: Doc.Downloader.Qbot11202120-9906200-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/eicarcom2.zip: Eicar-Test-Signature FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/Jumper.B.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/Jumper_BOOT.IMA: Win.Trojan.EE-1 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/131.exe: Win.Ransomware.HDDCryptor-2 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/1002.exe: PUA.Win.Packed.ConfuserEx-6391397-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/1003.exe: PUA.Win.Packed.ConfuserEx-6391397-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/bootkit/BkBuild/BootkitRunBot.dll: Win.Downloader.Elzob-9873602-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/eicarcom2/eicar_com.zip: Eicar-Test-Signature FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/infectedfiles/eicarcom2/eicar_com/eicar.com: Eicar-Test-Signature FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/eicarcom2/eicar_com.zip: Eicar-Test-Signature FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/eicarcom2/eicar_com/eicar.com: Eicar-Test-Signature FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/artifacts-and-malware/2017-12-04-GlobeImposter-sample-lGGtcrugME.exe: Win.Trojan.Agent-6390385-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Datop/good2.good: Win.Packed.Qbot-9937871-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Datop/good.good: Win.Packed.Qbot-9937871-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Ejuio/cmmgurwtmo.dll: Win.Trojan.Qakbot-9918299-1 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/HTA-and-DLL-files/globalFuncButton.jpg: Win.Malware.Generic-9865219-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/HTA-and-DLL-files/sizeTempStruct.jpg: Win.Malware.Generic-9865219-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/HTA-and-DLL-files/tmpSizeLocal.jpg: Win.Malware.Generic-9865219-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/HTA-and-DLL-files/textMemTmp.jpg: Win.Malware.Generic-9865219-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/HTA-and-DLL-files/lenPtr.jpg: Win.Malware.Generic-9865219-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/HTA-and-DLL-files/tableW.jpg: Win.Malware.Generic-9865219-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2017-12-04-Necurs-Botnet-malspam-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2018-11-02-GandCrab-malware-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2021-05-24-TA551-IcedID-malware-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2021-06-30-TA551-malware-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2021-10-01-Qakbot-malspam-74-examples.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2021-11-04-TR-Qakbot-malware-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2022-01-04-Remcos-RAT-malware-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2022-03-01-Emotet-epoch4-and-Cobalt-Strike-malware.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Infectionszipped/2022-03-03-Emotet-epoch4-and-Cobalt-Strike-malware-and-artifacts.zip: Heuristics.Encrypted.Zip FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Snirakw/pzgi.por: Win.Keylogger.Emotet-9940807-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/facts_06.21.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/specifics,06.21.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/material.06.21.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/figures.06.21.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/deed contract_06.30.2021.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/report_06.21.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/require.06.30.21.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/documents 06.30.2021.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+Malware Found and removed: /media/pi/infectedfiles/Word-docs/file 06.30.2021.doc: Doc.Downloader.BazarBlue09212-9898946-0 FOUND
+
+
+##################################
+_____________USB STATS______________
+Make: USB_2.0
+Serial: USB_2.0_PenDrive_0000000000000146-0:0
+Model: PenDrive
+Partitoned:partition
+FileSystem:exfat
+####################################
+----------- SCAN SUMMARY -----------
+Infected files: 129
+Time: 385.280 sec (6 m 25 s)
+Start Date: 2022:05:12 13:11:19
+End Date:   2022:05:12 13:17:44
+
+
+#############################################
+
+Scanberry Pi Usb Scan Report Analysis create (2022-05-12 13:18:32.476585):
+
+
+
+NO KNOWN MALWARE FOUND: on this device still treat as hostile
+
+
+##################################
+_____________USB STATS______________
+Make: USB_2.0
+Serial: USB_2.0_PenDrive_0000000000000146-0:0
+Model: PenDrive
+Partitoned:partition
+FileSystem:exfat
+####################################
+----------- SCAN SUMMARY -----------
+Infected files: 0
+Time: 123.738 sec (2 m 3 s)
+Start Date: 2022:05:12 13:18:33
+End Date:   2022:05:12 13:20:37
